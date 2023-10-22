@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    background-image: url("/assets/cine.jpg");
+    background-image: url("../assets/cine.jpg");
 }
 
 .estreiaHoje {
