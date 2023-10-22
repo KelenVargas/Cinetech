@@ -1,0 +1,54 @@
+body {
+    font-family: Arial;
+    background-image: url("/assets/cine.jpg");
+}
+
+.estreiaHoje {
+    color: darkred;
+}
+
+.estreiaAmanha {
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+    color: seagreen;
+}
+
+a:hover {
+    color: #000000;
+}
+
+p {
+    font-size: 20px;
+}
+
+.titPaginas {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(168, 51, 15);
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.botaoInicial {
+    padding: 5px 10px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #ebd387;
+
+}
+
+.botaoInicial:hover {
+    padding: 5px 10px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #181616;
+    color: white;
+
+}
+
+#botao {
+    text-align: center
+}
